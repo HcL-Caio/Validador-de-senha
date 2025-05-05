@@ -1,0 +1,1 @@
+Eu tentei criar um validador de senha de usuário, vi num vídeo no instagram e achei divertido e simples. No sistema que “eu“ criei, coloquei certas regras, que a senha do usuário tenha no mínimo 8 caracteres, sendo maiusculas, minúsculas, números e caracteres especiais. 
